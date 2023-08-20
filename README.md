@@ -5,10 +5,13 @@ This is a basic website that was created with React.js
 
 Previews:
 
-![BookList-gif](https://github.com/mhakby/BookList-CrudApp-React/assets/123645842/fbecdaf1-0860-4566-a647-d3631e28a203)
+
+![BookList-gif](https://github.com/mhakby/BookList-CrudApp-React.js/assets/123645842/f1fd9110-a061-4d2c-b661-93ad5e2b5331)
 
 
-![Resp](https://github.com/mhakby/BookList-CrudApp-React/assets/123645842/9a853ce5-c0ab-4d55-b958-fa2c41e120fa)
+
+![BookList Responsive](https://github.com/mhakby/BookList-CrudApp-React.js/assets/123645842/4aae681d-e2ae-4c7a-a17b-545706006b84)
+
 
 
 # Getting Started with Create React App
