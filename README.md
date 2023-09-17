@@ -2,6 +2,8 @@
 
 This is a basic website that was created with React.js
 
+Live preview:  https://book-list-crud-app-react-js.vercel.app/
+
 
 Previews:
 
